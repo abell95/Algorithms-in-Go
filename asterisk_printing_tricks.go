@@ -23,6 +23,6 @@ func printAstDescending(n int) {
 }
 
 func main() {
-	printAsctAscending(5)
+	printAstAscending(5)
 	printAstDescending(5)
 }
