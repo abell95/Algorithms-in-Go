@@ -22,6 +22,9 @@ func printAstDescending(n int) {
 	}
 }
 
+//TODO: Diamond made from asterisks
+//TODO: Square without filled interior
+
 func main() {
 	printAstAscending(5)
 	printAstDescending(5)
