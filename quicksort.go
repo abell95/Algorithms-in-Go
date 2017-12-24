@@ -7,7 +7,8 @@ import (
 	"sort"
 )
 
-func quickSort(numList []int) {
+func quickSort(numList []int) []int {
+	//create subarrays
 	//todo
 	//return sorted list
 }
